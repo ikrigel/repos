@@ -1,0 +1,8 @@
+﻿  main.cpp
+C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\Tutorial21230420simplePongGame\main.cpp(116,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  2 of 35 functions ( 5.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Tutorial21230420simplePongGame.vcxproj -> C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\x64\Release\Tutorial21230420simplePongGame.exe
