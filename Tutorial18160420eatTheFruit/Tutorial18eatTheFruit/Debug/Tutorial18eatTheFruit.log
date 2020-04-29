@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ikrig\source\repos\Tutorial18eatTheFruit\Tutorial18eatTheFruit\main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tutorial18eatTheFruit.vcxproj -> C:\Users\ikrig\source\repos\Tutorial18eatTheFruit\Debug\Tutorial18eatTheFruit.exe
