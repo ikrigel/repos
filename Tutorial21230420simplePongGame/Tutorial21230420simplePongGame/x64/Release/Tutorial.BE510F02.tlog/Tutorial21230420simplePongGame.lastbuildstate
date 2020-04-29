@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.25.28610:TargetPlatformVersion=10.0.19041.0:
 Release|x64|C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\|
+=======
+PlatformToolSet=v142:VCToolArchitecture=Native32Bit:VCToolsVersion=14.25.28610:TargetPlatformVersion=10.0.19041.0:
+Release|x64|C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\|
+>>>>>>> 4c5b27536dc1bf89920bed1b34e33bcbf1b120b4

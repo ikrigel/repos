@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 ﻿  main.cpp
 C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\Tutorial21230420simplePongGame\main.cpp(116,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Tutorial21230420simplePongGame.vcxproj -> C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\x64\Debug\Tutorial21230420simplePongGame.exe
+=======
+﻿  main.cpp
+C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\Tutorial21230420simplePongGame\main.cpp(116,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Tutorial21230420simplePongGame.vcxproj -> C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\x64\Debug\Tutorial21230420simplePongGame.exe
+>>>>>>> 4c5b27536dc1bf89920bed1b34e33bcbf1b120b4
