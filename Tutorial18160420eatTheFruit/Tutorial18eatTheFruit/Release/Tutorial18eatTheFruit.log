@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\ikrig\source\repos\Tutorial18eatTheFruit\Tutorial18eatTheFruit\main.cpp(21,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 65 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tutorial18eatTheFruit.vcxproj -> C:\Users\ikrig\source\repos\Tutorial18eatTheFruit\Release\Tutorial18eatTheFruit.exe
