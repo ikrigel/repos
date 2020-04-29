@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\Tutorial21230420simplePongGame\main.cpp(116,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 35 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Tutorial21230420simplePongGame.vcxproj -> C:\Users\ikrig\source\repos\Tutorial21230420simplePongGame\x64\Release\Tutorial21230420simplePongGame.exe
