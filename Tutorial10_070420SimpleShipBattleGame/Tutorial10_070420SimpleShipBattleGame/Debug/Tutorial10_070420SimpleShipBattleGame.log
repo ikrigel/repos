@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ikrig\source\repos\Tutorial10_070420SimpleShipBattleGame\Tutorial10_070420SimpleShipBattleGame\main.cpp(84,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\ikrig\source\repos\Tutorial10_070420SimpleShipBattleGame\Tutorial10_070420SimpleShipBattleGame\main.cpp(180,20): warning C4305: 'initializing': truncation from 'int' to 'bool'
